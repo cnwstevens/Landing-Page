@@ -38,3 +38,11 @@ button {
     width: 100px;
     border: none;
 }
+
+.hero-image {
+    height: 200px;
+    width: 500px;
+    border: none;
+    background-color: gray;
+    align-self: flex-end;
+}
