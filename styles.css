@@ -15,9 +15,12 @@ header {
 }
 
 .header-list {
+    font-family: Arial, Helvetica, sans-serif;
     list-style: none;
-    margin-right: 200px;
-    display: inline-block;
+    margin-right: 110px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 25px;
 }
 
 .hero {
@@ -47,7 +50,7 @@ header {
 .subtext {
     font-size: 18px;
     color: #E5E7EB;
-    opacity: 70%;
+    opacity: 80%;
 }
 
 .hero-sub {
