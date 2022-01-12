@@ -98,7 +98,6 @@ button {
 
 .info-images {
     display: flex;
-    flex: auto;
     margin: 0 auto;
     gap: 20px;
     justify-content: space-between;
